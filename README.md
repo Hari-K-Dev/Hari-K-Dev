@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  Software Developer @ Neuramodal | AI & Data Engineering | Full Stack Systems
+  Software Developer @ Neuramodal | AI & Data Science Engineering | Full Stack Systems
 </h3>
 
 
