@@ -12,8 +12,8 @@
 
 ## 👨‍💻 About Me
 
-- 👋 I am **Harikrishnan A.**, a **Software Developer** currently working at **Neuramodal**, contributing to **AI-driven, production-scale systems** across edge devices, backend services, and data pipelines.
-- 🏢 At **Neuramodal**, I work on **real-world AI platforms**, focusing on **robust backend design**, **model integration**, **event-driven architectures**, and **scalable deployments**.
+- 👋 I am **Hari Krishnan A.**, a **Software Developer** currently working at **Neuramodal**, contributing to **AI-driven, production-scale systems** across edge devices, backend services, and data pipelines.
+- 🏢 At **Neuramodal**, I work on **real-world AI platforms**, focusing on **robust backend and intuitive frontend design**, **model integration**, **event-driven architectures**, and **scalable deployments**.
 - 🤖 I design and implement **Edge + Cloud AI architectures**, including real-time video analytics, pose-based behaviour analysis, and model-gated inference pipelines using computer vision.
 - 📊 Experienced in building **end-to-end ML systems**, covering data ingestion, feature engineering, model training, API and WebSocket serving, and live monitoring.
 - 🧠 Previously delivered **production mobile and backend systems** handling high user traffic, with emphasis on clean architecture, security, and maintainability.
