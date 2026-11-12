@@ -63,14 +63,6 @@ When Claude Code finishes, a British voice gives me the gist in two sentences. I
 
 <p align="center"><a href="https://github.com/Hari-K-Dev/jarvis-voice"><b>▶ PLAY IT: github.com/Hari-K-Dev/jarvis-voice</b></a> &nbsp;·&nbsp; open source, MIT</p>
 
-### 📝 Teachward
-
-Teachers upload an old test and get a new one back in their school's format. Early days. `Next.js` `Supabase` `Claude`
-
-<p align="center">
-  <img width="420" src="assets/teachward.svg" alt="An old test goes in, gets rewritten, and comes out as a new paper with an answer key and no repeated questions.">
-</p>
-
 ### 🌦️ Weather app
 
 Dublin kept lying to me about sunshine, so I built an app that tells me whether to bike. `FastAPI` `React` `Gemini` `Qdrant`
@@ -116,10 +108,6 @@ while True:
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hari-K-Dev/Hari-K-Dev/output/snake-dark.svg">
   <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/Hari-K-Dev/Hari-K-Dev/output/snake.svg">
 </picture>
-
-<p align="center">
-  <img src="assets/continue.svg" width="640" alt="Arcade continue screen counting down from nine. Insert coin below.">
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hari-krishnan-a-561a6427b"><img src="https://skillicons.dev/icons?i=linkedin" width="44" alt="LinkedIn"></a>&nbsp;
