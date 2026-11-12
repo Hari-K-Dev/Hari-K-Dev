@@ -55,7 +55,13 @@ Now I'm a **Forward Deployed Engineer at Neuramodal** and an **Applied AI Engine
 
 ### 🎙️ [Jarvis Voice](https://github.com/Hari-K-Dev/jarvis-voice)
 
+<img align="right" width="260" src="https://media1.tenor.com/m/LIJdDl5i8VQAAAAC/tony-stark-jarvis.gif" alt="Tony Stark inside the Iron Man helmet, talking to JARVIS as the blue heads-up display spins around him.">
+
 When Claude Code finishes, a British voice gives me the gist in two sentences. It never reads out the stack trace. `Python` `Claude Haiku` `Kokoro`
+
+I wanted my own JARVIS. This is the bit I could actually build.
+
+<br clear="right">
 
 <p align="center">
   <a href="https://github.com/Hari-K-Dev/jarvis-voice"><img width="640" src="assets/jarvis-voice.gif" alt="A terminal shows a long Claude Code reply while a voice speaks a two-sentence summary."></a>
@@ -70,31 +76,6 @@ Dublin kept lying to me about sunshine, so I built an app that tells me whether 
 <p align="center">
   <img width="640" src="assets/weather-app.jpg" alt="Three screens from my AI weather app: Dublin at 11 degrees and overcast, a chat answering whether to bring an umbrella and whether to bike, and a rain chart for the week.">
 </p>
-
-## 🔁 DAILY LOOP
-
-<img align="right" width="300" src="https://media1.tenor.com/m/JPX5iWzkrfQAAAAM/akudama-drive-anime.gif" alt="An anime hacker surrounded by glowing holographic screens.">
-
-```python
-while True:
-    code()                   # most of the day
-    build(something_fun)
-    gym()
-    if weekend():
-        side_quest("Dublin")  # bring a jacket
-```
-
-<br clear="right">
-
-<details>
-<summary><b>🎖️ ACHIEVEMENTS</b> (tap to open)</summary>
-<br>
-
-⚡ Cut a 70-second AI call down to 3<br>
-🛡️ Patched path traversal and IDOR bugs, with tests<br>
-🤖 Built a robot that restocks supermarket shelves
-
-</details>
 
 ## 📊 STATS
 
