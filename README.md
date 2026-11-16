@@ -69,6 +69,30 @@ I wanted my own JARVIS. This is the bit I could actually build.
 
 <p align="center"><a href="https://github.com/Hari-K-Dev/jarvis-voice"><b>▶ PLAY IT: github.com/Hari-K-Dev/jarvis-voice</b></a> &nbsp;·&nbsp; open source, MIT</p>
 
+### ⚓ [Deckhand](https://github.com/Hari-K-Dev/deckhand)
+
+<img align="right" width="120" src="assets/deckhand-icon.png" alt="The Deckhand app icon: a terracotta tile with a dark three-column terminal and a cream spark.">
+
+I double-click it, tick the Claude Code sessions I want, and they come back tiled across my screens, each in the right folder. `Swift` `SwiftUI` `AppleScript`
+
+Typing `claude --resume` five times before coffee was one side quest too many.
+
+<br clear="right">
+
+<p align="center">
+  <a href="https://github.com/Hari-K-Dev/deckhand"><img width="640" src="assets/deckhand-layouts.svg" alt="Deckhand's window layouts: full screen, split screen, three columns, and a 2x2 grid with extras stacked on top on the laptop, then three columns per screen with an external display."></a>
+</p>
+
+<p align="center"><a href="https://github.com/Hari-K-Dev/deckhand"><b>▶ PLAY IT: github.com/Hari-K-Dev/deckhand</b></a> &nbsp;·&nbsp; open source, MIT</p>
+
+### 📱 [telegram-afk](https://github.com/Hari-K-Dev/telegram-afk)
+
+When I walk away, my Claude Code sessions follow me to Telegram. Each one gets its own topic, permission prompts come with Allow and Deny buttons, and Jarvis Voice turns finished turns into voice notes. `TypeScript` `Bun` `MCP` `grammY`
+
+Now a session that needs a yes doesn't wait for me to get back from the gym.
+
+<p align="center"><a href="https://github.com/Hari-K-Dev/telegram-afk"><b>▶ PLAY IT: github.com/Hari-K-Dev/telegram-afk</b></a> &nbsp;·&nbsp; open source, MIT</p>
+
 ### 🌦️ Weather app
 
 Dublin kept lying to me about sunshine, so I built an app that tells me whether to bike. `FastAPI` `React` `Gemini` `Qdrant`
